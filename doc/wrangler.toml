@@ -1,0 +1,13 @@
+name = "mail2telegram"
+main = "index.js"
+compatibility_date = "2023-10-13"
+
+kv_namespaces = [
+  { binding = "DB", id = "" }
+]
+
+[vars]
+DOMAIN = "email.zhenxi.site"
+TELEGRAM_ID = "6218820084"
+TELEGRAM_TOKEN = "7120846049:AAEHCmoNxXnWnxpZTIQC0PaqfedkJiqbQoI"
+FORWARD_LIST = ""
